@@ -2,3 +2,10 @@ Zum installieren der Haskell Plattform unter Debian führen Sie folgendes
 Kommando aus:
 
 > aptitude install haskell-platform
+
+Zum Deinstallieren der Haskell Plattform unter Debian führen Sie folgendes Kommando aus:
+
+> sudo apt-get remove haskell-platform
+
+Unter Linux Mnajaro installieren:
+> url -sSL https://get.haskellstack.org | sh
